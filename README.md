@@ -1,6 +1,6 @@
-#parse_xlsx.py - an XLSX Cell Parser
+# parse_xlsx.py - an XLSX Cell Parser
 
-##Why Does It Exist?  
+## Why Does It Exist?  
 
 The [Mitre ATT&CK Navigator](https://mitre-attack.github.io/attack-navigator/) 
 exports data to XLSX format. I needed a quick & dirty 
